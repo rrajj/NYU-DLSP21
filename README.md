@@ -1,5 +1,15 @@
 # NYU Deep Learning Spring 2021 (NYU-DLSP21)
 
+<p align="center">
+    <a href="https://github.com/Atcold/NYU-DLSP21/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues-raw/Atcold/NYU-DLSP21?color=red" />
+    </a>
+    <a href="https://github.com/Atcold/NYU-DLSP21/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Atcold/NYU-DLSP21?color=blue" />
+    </a>
+    <br />
+
+
 <!-- English - French -->
 [🇬🇧](https://github.com/Atcold/NYU-DLSP21/blob/master/README.md) &nbsp; [🇫🇷](https://github.com/Atcold/NYU-DLSP21/blob/master/docs/fr/README-FR.md)
 
