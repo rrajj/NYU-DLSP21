@@ -1,4 +1,7 @@
 name: NFR documents changed
+- name: Checklist Progress Badge
+  uses: dodopizza/gha-checklist-badges@v0.1
+
 on:
   workflow_dispatch:
   push:
