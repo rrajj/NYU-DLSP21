@@ -1,3 +1,8 @@
+![ru](https://img.shields.io/badge/ru-0%25%200%2F41-red) 
+![jp](https://img.shields.io/badge/jp-0%25%200%2F41-red) 
+![fr](https://img.shields.io/badge/fr-0%25%200%2F41-red) 
+![en](https://img.shields.io/badge/en-100%25%2041%2F41-green) 
+![ch](https://img.shields.io/badge/ch-0%25%200%2F41-red) 
 # NYU Deep Learning Spring 2021 (NYU-DLSP21)
 
 <p align="center">
