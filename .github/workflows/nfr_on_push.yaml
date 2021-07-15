@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - "examples/*.md"
+      - "langs/*.md"
 jobs:
   push:
     name: NFR documents changed
@@ -20,5 +20,5 @@ jobs:
         uses: ./.
         with:
           readme-fname: README.md
-          nfr-fnames: examples/en.md examples/ch.md examples/fr.md examples/jp.md examples/ru.md
+          nfr-fnames: langs/en.md langs/ch.md langs/fr.md langs/jp.md langs/ru.md
           github_token: ${{ secrets.GITHUB_TOKEN }}
