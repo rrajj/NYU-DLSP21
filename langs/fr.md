@@ -1,6 +1,6 @@
 # FRENCH CHECKLIST
-- [ ] Week01
-    - [ ] 01.md
+- [x] Week01
+    - [x] 01.md
 
 - [ ] Week02
     - [ ] 02-3.md
