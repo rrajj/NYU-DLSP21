@@ -12,8 +12,7 @@ jobs:
     steps:
       - name: Checklist Progress Badge
         uses: dodopizza/gha-checklist-badges@v0.1
-        with:
-          fetch-depth: 0
+  
       - name: Update NFR badges
         uses: .
         with:
