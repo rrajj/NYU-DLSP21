@@ -10,11 +10,9 @@ jobs:
     name: NFR documents changed
     runs-on: ubuntu-latest
     steps:
+  
       - name: Checklist Progress Badge
         uses: dodopizza/gha-checklist-badges@v0.1
-  
-      - name: Update NFR badges
-        uses: .
         with:
           readme-fname: README.md
           nfr-fnames: langs/en.md langs/ch.md langs/fr.md langs/jp.md langs/ru.md
