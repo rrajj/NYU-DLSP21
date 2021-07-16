@@ -15,7 +15,7 @@ jobs:
         with:
           fetch-depth: 0
       - name: Update NFR badges
-        uses: ./.
+        uses: .
         with:
           readme-fname: README.md
           nfr-fnames: langs/en.md langs/ch.md langs/fr.md langs/jp.md langs/ru.md
